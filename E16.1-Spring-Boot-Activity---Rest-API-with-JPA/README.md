@@ -1,13 +1,9 @@
-# E16.1-Spring-Boot-Activity---Rest-API-with-JPA
+# E28 Swagger
 
 
 
 
-# E16.1SpringBootActivity
-E16.1 Spring Boot Activity - Rest API with JPA
-
-
-I added a backup file for my database named it 'school.sql'
+I added a backup file for my database named it 'e28.sql'
 
 
 Heres the process on how to restore database on postgres using a backup file
